@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "formik": "^2.1.4",
     "next": "^9.2.2",
     "react": "^16.7.0",
